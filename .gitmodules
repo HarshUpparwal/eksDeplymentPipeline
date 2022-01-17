@@ -1,0 +1,18 @@
+[submodule "begig-job-service"]
+	path = begig-job-service
+	url = https://github.com/akhileshgandhi/begig-job-service.git
+[submodule "JDParser"]
+	path = JDParser
+	url = https://github.com/akhileshgandhi/JDParser.git
+[submodule "begig-user-service"]
+	path = begig-user-service
+	url = https://github.com/akhileshgandhi/begig-user-service.git
+[submodule "begigAI"]
+	path = begigAI
+	url = https://github.com/akhileshgandhi/BegigAI.git
+[submodule "Resumeparser"]
+	path = Resumeparser
+	url = https://github.com/akhileshgandhi/Resumeparser.git
+[submodule "begig-payment-service"]
+	path = begig-payment-service
+	url = https://github.com/akhileshgandhi/begig-payment-service.git
